@@ -1,0 +1,3 @@
+[submodule "translatemathapp"]
+	path = translatemathapp
+	url = https://github.com/RandeeJ/translatemathapp.git
